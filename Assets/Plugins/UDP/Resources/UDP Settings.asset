@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 741884b37a0234d86bb740e55081cd5f, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: eb8fb343-c184-439e-97d0-191f4e18359e
+  UnityClientID: hh6Ge8iMG6FazW0MDwYlWA
+  UnityClientKey: yBhoeRUFIEw4H7QZkhF4e7zQP4wKgZHokl466xuhrP4
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2DgF1DUWL1T+GLbv+cgrTSS6O+qBc6IFYRvinVPolTfg0UlImuaGLGumOxXk1IroN9OWnA9ONBdho1zlSxLybGHOHtnB6tm+8VosUeG3SzfGVvLvTMJi6Mn3N8Pt34Tb8iJv+KPF7/hbojzWBZ4mbvV07D94KBH/dfRiPCOO+O3aSfpxZW0b80t4/9QnS4Y/bpjXe7RdzcCXm8hvEKXquHUonzoI4WFay8h6fxOJLQyrBMJIdzy4z/+w7Vzi0wgdWz7S+MHTPtT266D+4DVMbXykfCaUy833e1q/tuqHJEkPdN04URfhdn5uCZaN8PFzZkpvZYMnsm857kOJFqIHqwIDAQAB
+  AppName: Avoid The Covid
+  AppSlug: e7c59da4-db77-47a3-a71f-ca0c805c0b18
+  AppItemId: 5ed186a1c90e5f001f02e7c6
+  Permission: 
